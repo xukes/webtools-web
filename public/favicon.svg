@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="12" fill="#1E40AF"/>
+  <g transform="rotate(-45, 32, 32)">
+    <!-- Wrench handle -->
+    <rect x="28" y="32" width="8" height="22" rx="3" fill="#BFDBFE"/>
+    <!-- Wrench head -->
+    <path d="M22 20 C22 14.477 26.477 10 32 10 C34.5 10 36.8 10.9 38.6 12.4 L34.5 16.5 C33.75 16.18 32.9 16 32 16 C29.79 16 28 17.79 28 20 C28 22.21 29.79 24 32 24 C34.21 24 36 22.21 36 20 C36 19.1 35.82 18.25 35.5 17.5 L39.6 13.4 C41.1 15.2 42 17.5 42 20 C42 25.523 37.523 30 32 30 C26.477 30 22 25.523 22 20 Z" fill="#93C5FD"/>
+    <!-- Wrench opening cutout -->
+    <rect x="28" y="18" width="8" height="6" rx="1" fill="#1E40AF"/>
+  </g>
+</svg>
